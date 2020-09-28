@@ -1,0 +1,55 @@
+[33mcommit 1ee1854cf4413b966377ea177c152b2fb708a890[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mhub/master[m[33m)[m
+Merge: 237737a 99259dc
+Author: Mubashir Ck <mubashirck007@gmail.com>
+Date:   Wed Sep 9 22:24:59 2020 +0530
+
+    overide successful
+
+[33mcommit 99259dcced647a01b07c9b5bb9dfa97540f51d6a[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Mubashir Ck <mubashirck007@gmail.com>
+Date:   Wed Sep 9 22:19:51 2020 +0530
+
+    override complete
+
+[33mcommit 237737a57a3e3765966fcd2d5fde85c531b33d72[m
+Author: Mubashir Ck <mubashirck007@gmail.com>
+Date:   Wed Sep 9 22:18:45 2020 +0530
+
+    override step1
+
+[33mcommit facd906ee2bfd70a7796a8c4055bf97f1a5df37c[m
+Merge: 73b090b 9785cc6
+Author: Mubashir Ck <mubashirck007@gmail.com>
+Date:   Wed Sep 9 22:15:17 2020 +0530
+
+    Merge branch 'feature' into master
+
+[33mcommit 9785cc6b062e224227a05135e1cc1904cdb40f2b[m
+Author: Mubashir Ck <mubashirck007@gmail.com>
+Date:   Wed Sep 9 22:13:45 2020 +0530
+
+    html edited'
+
+[33mcommit 73b090b10bb00d6cd1e30b8414a2c0e8cd0c560b[m
+Author: Mubashir Ck <mubashirck007@gmail.com>
+Date:   Wed Sep 9 22:11:52 2020 +0530
+
+    master push
+
+[33mcommit b3d45aaeb754130e650a3ceda1062514d2e4ea29[m
+Author: Mubashir Ck <mubashirck007@gmail.com>
+Date:   Wed Sep 9 20:49:27 2020 +0530
+
+    text fil altered
+
+[33mcommit a69d3c2cf703f27085bf8f1987ad9c3336fe1837[m
+Author: Mubashir Ck <mubashirck007@gmail.com>
+Date:   Wed Sep 9 20:45:07 2020 +0530
+
+    empty text file
+
+[33mcommit 391d1295a8c7905800f92918ca202230740b4d59[m
+Author: Mubashir Ck <mubashirck007@gmail.com>
+Date:   Wed Sep 9 13:53:43 2020 +0530
+
+    sample HTML
